@@ -1,0 +1,49 @@
+.hand {
+	font-family: 'Reenie Beanie', arial, serif;
+}
+
+.line {
+	font-family: 'Josefin Sans Std Light', arial, serif;
+}
+
+.fancy {
+	font-family: 'Tangerine', arial, serif;
+}
+
+
+.large {
+	font-size: large;
+}
+
+.xlarge {
+	font-size: x-large;
+}
+
+.xxlarge {
+	font-size: xx-large;
+}
+
+.huge {
+	font-size: 750%;
+	line-height: 100%;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	margin-top: 5px;
+	margin-bottom: 75px;
+}
+
+.right {
+	text-align: right;
+}
+
+.center {
+	text-align: center;
+}
+
+.red {
+	color: red;
+}
+
+.blue {
+	color: blue;
+}
