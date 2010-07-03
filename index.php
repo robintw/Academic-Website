@@ -11,7 +11,7 @@
 	<hr>
 	<?php include 'navigation.php' ?>
 	<div class="span-20 last">
-		<p class="news"><strong>Recent News:</strong> Final degree results released! (<a href="news">read more</a>)</p>
+		<p class="news"><strong>Recent News:</strong> Conference paper for RSPSoc 2010 submitted (<a href="news">read more</a>)</p>
 		<h6>Current Work</h6>
 		<p><img src="SPOTSample.png" class="top right" alt="Example SPOT image">
 		I am currently a PhD student at the <a href="http://www.soton.ac.uk">University of Southampton</a>, working within the <a href="http://www.icss.soton.ac.uk">Institute for Complex Systems Simulation</a> (an interdisciplinary group working to understand and simulate complex systems in a wide variety of areas). I am focussing on complexity within remote sensing. <a href="complexity">Read more</a>
