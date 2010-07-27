@@ -11,7 +11,7 @@
 	<hr>
 	<?php include 'navigation.php' ?>
 	<div class="span-20 last">
-		<p>I have written a number of pieces of software related to remote sensing. Details are given below.</p>
+		<p>I have written a number of pieces of software related to my academic work.</p>
 		<h6>RTWTools</h6>
 		<p>This is probably the most useful piece of academic software I have written. It is a set of tools for <a href="http://www.ittvis.com/ProductServices/ENVI.aspx">ENVI</a> which add useful new functionality. The code has been released under an open source license, and both the source code and a compiled .sav file are available from the <a href="http://rtwtools.googlecode.com">RTWTools Google Code Repository</a>.</p>
 		<p class="nogap">
@@ -28,7 +28,10 @@
 		</p>
 		
 		<h6>RTWOBIA</h6>
-		<p>This is still very much a work in progress, but it is designed to be a free, open-source <a href="http://www.definiens.com/">eCognition</a> replacement. Flexibility and customisability are the key features, and it should allow more complex class definitions than eCognition (for example, there will be far more flexibility in defining 'Customised Features') and will be flexible in the type of segmentation and classification which will be performed. All code is available at the <a href="http://code.google.com/p/rtwobia/">RTWOBIA Google Code Repository</a>. In case you're interested, the name is a combination of RTW (my initials) and the acronym for Object-Based Image Analysis</p>
+		<p>This is still very much a work in progress, but it is designed to be a free, open-source <a href="http://www.definiens.com/">eCognition</a> replacement. Flexibility and customisability are the key features, and it should allow more complex class definitions than eCognition (for example, there will be far more flexibility in defining 'Customised Features') and will be flexible in the type of segmentation and classification which will be performed. All code is available at the <a href="http://code.google.com/p/rtwobia/">RTWOBIA Google Code Repository</a>. In case you're interested, the name is a combination of RTW (my initials) and the acronym for Object-Based Image Analysis (OBIA).</p>
+        
+        <h6>DunesGIS</h6>
+		<p>This is software which runs an automated method of extracting sand dune crests from Digital Elevation Models (DEMs) produced by sand dune development models. It consists of two major parts: an ENVI/IDL process which extracts the crests and an ArcGIS/Python process which calculates dune pattern metrics on the extracted crest lines. The source code is available at <a href="http://github.com/robintw/DunesGIS">GitHub<a/>.</p>
 	</div>
 </div>
 <?php include 'footer.php' ?>

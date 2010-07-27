@@ -15,7 +15,7 @@
 		I am currently a PhD student at the <a href="http://www.soton.ac.uk">University of Southampton</a>, working within the <a href="http://www.icss.soton.ac.uk">Institute for Complex Systems Simulation</a> (an interdisciplinary group working to understand and simulate complex systems in a wide variety of areas). I am focussing on complexity within remote sensing.
 		</p>
 		<p>I have a BSc Geography degree, with significant background experience in computing. I did a gap year with the <a href="http://www.yini.org.uk/">Year in Industry</a> before I came to university, where I worked for <a href="http://www.british-energy.com">British Energy</a> writing software to control systems at Sizewell B nuclear power station.</p>
-		<p>My CV is available for <a href="./downloads/RWilson_AcademicCV.pdf">download</a>. Please <a href="contact">contact me</a> if you are interested in hiring me.</p>
+		<p>My CV is available for <a href="./downloads/RWilson_AcademicCV.pdf">download</a>. Please <a href="contact">contact me</a> if you are interested in working with me.</p>
 		<p class="nogap">I have experience in a number of areas, colour-coded as below:</p>
 		<ul class="nav">
 			<li class="high">Expert</li>
@@ -61,8 +61,6 @@
 			<ul class="noindent">
 				<li class="low">Putting up scaffolding-based tents (see <a href="bursary">here</a>)</li>
 				<li class="medium">Crafting (mainly making cards, but also silk painting, glass painting and cross stitch)</li>
-				<li class="low">Writing poetry (see <a href="#">here</a>)</li>
-				<li>Blah</li>
 			</ul>			
 		</div>
 </div>

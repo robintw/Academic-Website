@@ -13,7 +13,8 @@
 	<div class="span-20 last">
 		<p>I can be contacted using the details below. I will endeavour to reply to you as soon as possible.</p>
 		<h6>Email:</h6>
-		<p><a href="mailto:rtw1v07@soton.ac.uk">rtw1v07@soton.ac.uk</a></p>
+		<p><a href="mailto:rtw1v07@soton.ac.uk">rtw1v07@soton.ac.uk</a><br>
+        <a href="mailto:robin@rtwilson.com">robin@rtwilson.com</a></p>
 		
 		<h6>Telephone:</h6>
 		<p>I do not have a university telephone number yet. When I am assigned one then I will update this page.</p>
