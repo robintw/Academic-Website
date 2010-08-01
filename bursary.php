@@ -2,6 +2,8 @@
 <head>
 	<?php include 'stylesheets.php' ?>
 	<title>Robin Wilson - Summer Bursary</title>
+    <meta name="description" content="Information on the work done in an EPSRC-funded Summer Bursary Scheme - including sky radiance analysis and commissioning of an automated tramway system." /> 
+    <meta name="keywords" content="EPSRC, remote sensing, sky radiance, IDL, SKRAMVis, tramway, Chilbolton" /> 
 </head>
 <body>
 	<div class="container">

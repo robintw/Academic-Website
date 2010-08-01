@@ -19,6 +19,11 @@ ul.nav {
 	padding-left: 0;
 }
 
+ul.extraspace  li{
+	padding-bottom: 10px;
+}
+
+
 ul.noindent {
 	text-indent: 0;
 	margin-left: 0;
@@ -26,17 +31,33 @@ ul.noindent {
 	list-style-position: inside;
 }
 
-li.high {
-	color: #BD0026;
+strong.high {
+    background-color: #BD0026;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    }
+    
+strong.medium {
+    background-color: #FC4E2A;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
 }
 
-li.medium {
-	color: #FC4E2A;
+strong.low {
+    background-color: #FEB24C;
+    color: white;
+    padding-left: 5px;
+    padding-right: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
 }
 
-li.low {
-	color: #FEB24C;
-}
 
 .header {
 	padding-top: 7px;

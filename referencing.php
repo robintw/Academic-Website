@@ -17,7 +17,7 @@
 		
 		<h6>Dissertation</h6>
 		<p>This is the best bit of work I have produced so far, so is most likely to be referenced. The reference below should be used:</p>
-			<p>Wilson, R. T., 2010, <em>Automated Selection of Suitable Atmospheric Calibration Sites for Satellite Imagery</em>, Undergraduate Dissertation, University of Southampton, &#91;Available at <u>http://rtwilson.com/academic/dissertation.php</u>&#93;
+			<p>Wilson, R. T., 2010, <em>Automated Selection of Suitable Atmospheric Calibration Sites for Satellite Imagery</em>, Undergraduate Dissertation, University of Southampton, &#91;Available at <u>http://rtwilson.com/academic/dissertation</u>&#93;
 		</p>
 		
 		<h6>Website</h6>

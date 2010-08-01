@@ -12,26 +12,16 @@
 	<?php include 'navigation.php' ?>
 	<div class="span-20 last">
 		<p>I have written a number of pieces of software related to my academic work.</p>
-		<h6>RTWTools</h6>
-		<p>This is probably the most useful piece of academic software I have written. It is a set of tools for <a href="http://www.ittvis.com/ProductServices/ENVI.aspx">ENVI</a> which add useful new functionality. The code has been released under an open source license, and both the source code and a compiled .sav file are available from the <a href="http://rtwtools.googlecode.com">RTWTools Google Code Repository</a>.</p>
-		<p class="nogap">
-		The following are examples of some of the tools included in RTWTools:
-		<ul>
-		<li>Calculate Spatial Statistics (Getis-Ord and Coefficient of Variation)</li>
-		<li>Calculate 3D surface area from a DEM</li>
-		<li>Shrink ROIs by one pixel or translate them by x and y co-ordinates</li>	
-		<li>Take percentile thresholds from images (similar to Band Threshold to ROI, but with percentages)</li>
-		<li>Calculate ROI statistics</li>
-		<li>Calculate differences between spectra (BETA)</li>
-		<li>Create GLT file for use in ATCOR and AZGCORR</li>
-		</ul>
-		</p>
-		
-		<h6>RTWOBIA</h6>
-		<p>This is still very much a work in progress, but it is designed to be a free, open-source <a href="http://www.definiens.com/">eCognition</a> replacement. Flexibility and customisability are the key features, and it should allow more complex class definitions than eCognition (for example, there will be far more flexibility in defining 'Customised Features') and will be flexible in the type of segmentation and classification which will be performed. All code is available at the <a href="http://code.google.com/p/rtwobia/">RTWOBIA Google Code Repository</a>. In case you're interested, the name is a combination of RTW (my initials) and the acronym for Object-Based Image Analysis (OBIA).</p>
+        <ul class="nav extraspace">
+        <li><a href="rtwtools">RTWTools</a>: A set of tools for <a href="http://www.ittvis.com/ProductServices/ENVI.aspx">ENVI</a> which add useful new functionality. <strong class="high">Released</strong></li>
+
+        <li><a href="rtwtag">RTW Tools for ArcGIS</a>: A set of tools for <a href="www.esri.com/software/arcgis/index.html">ArcGIS</a> which add useful new functionality. <strong class="medium">Beta</strong></li>
         
-        <h6>DunesGIS</h6>
-		<p>This is software which runs an automated method of extracting sand dune crests from Digital Elevation Models (DEMs) produced by sand dune development models. It consists of two major parts: an ENVI/IDL process which extracts the crests and an ArcGIS/Python process which calculates dune pattern metrics on the extracted crest lines. The source code is available at <a href="http://github.com/robintw/DunesGIS">GitHub<a/>.</p>
+        <li><a href="dunesgis">Dunes GIS</a>: A set of tools for processing sand dune DEM data with a GIS system, including a tool to automatically extract dune crests. <strong class="medium">Beta</strong></a></li>
+        
+        <li><a href="rtwobia">RTWOBIA</a>: A free, open-source <a href="http://www.definiens.com/">eCognition</a> replacement. <strong class="low">Alpha</strong></li>
+        
+        </ul>
 	</div>
 </div>
 <?php include 'footer.php' ?>
